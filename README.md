@@ -10,7 +10,7 @@ beautifulsoup4
 You also need a working Antiscan.me <a href="https://antiscan.me/signup" target="_blank">**API Key**</a> to perform scans.
 ## Usage
 ```txt
-usage: scan.py [-h] [-f FILE] [-img] key
+usage: Scan.py [-h] [-f FILE] [-img] key
 
 Antiscan.me automatization script
 
