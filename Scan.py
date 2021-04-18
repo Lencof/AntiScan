@@ -3,6 +3,7 @@
 
 import os
 import sys
+import webbrowser
 import requests
 import argparse
 from bs4 import BeautifulSoup
